@@ -1,7 +1,7 @@
 # Hi, I'm Maciej Karczmarz  
 
 **Developer & Computer Graphics Enthusiast**  
-I combine visual design with coding – from low-level systems to interactive digital art.  
+I combine visual design with coding – from digital creations to systems/apps.  
 
 ---  
 
