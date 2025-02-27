@@ -1,4 +1,4 @@
-# Hi, something about me:
+# Hi, something about me 🙂:
 
 **Developer & Computer Graphics Enthusiast**  
 I combine visual design with coding – from digital creations to systems/apps.  
