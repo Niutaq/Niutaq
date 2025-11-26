@@ -1,11 +1,11 @@
-# Hi 👋, I'm Maciej Karczmarz
+# Hi, I'm Maciej Karczmarz
 **3D Artist & Graphics Developer | Learning Backend Development**
 
 Specialized in 3D graphics, procedural generation, and real-time rendering. Currently expanding into backend systems and Go development.
 
 ---
 
-## 🎨 Core Skills
+## Core Skills
 
 ### 3D Graphics & Visualization
 ![Unity](https://skillicons.dev/icons?i=unity) 
@@ -28,16 +28,10 @@ Specialized in 3D graphics, procedural generation, and real-time rendering. Curr
 ![Windows](https://skillicons.dev/icons?i=windows)
 
 ---
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niutaq&theme=radical)
----
-
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-karczmarz-b5b444237/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciekkar1305@gmail.com)
 
 ---
 
-*Combining creative visual design with technical development*
+*Combining creative visual design with technical development ;)*
