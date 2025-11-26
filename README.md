@@ -11,12 +11,12 @@ Specialized in 3D graphics, procedural generation, and real-time rendering. Curr
 ![Unity](https://skillicons.dev/icons?i=unity) 
 ![Unreal Engine](https://skillicons.dev/icons?i=unreal) 
 ![Blender](https://skillicons.dev/icons?i=blender)  
-![Houdini](https://custom-icon-badges.demolab.com/badge/-Houdini-000000?logo=houdini&logoColor=white) 
-![Substance Painter](https://custom-icon-badges.demolab.com/badge/-Substance%20Painter-FF7C4C?logo=substancepainter&logoColor=white)
+![Houdini](https://custom-icon-badges.demolab.com/badge/-Houdini-fe4703?logo=houdini&logoColor=white) 
+![Substance Painter](https://custom-icon-badges.demolab.com/badge/-Substance%20Painter-253709?logo=substancepainter&logoColor=white)
 
-![TwinMotion](https://img.shields.io/badge/TwinMotion-FF6C37?style=flat&logoColor=white) 
-![Gaea](https://img.shields.io/badge/Gaea-4A90E2?style=flat&logoColor=white)
-![Figma](https://skillicons.dev/icons?i=figma)
+![TwinMotion](https://img.shields.io/badge/TwinMotion-000000?style=twinmotion&logoColor=white) 
+![Gaea](https://img.shields.io/badge/Gaea-ebab34?style=gaea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF6C37?style=flat&logo=figma&logoColor=white)
 
 ### Development & Tools
 ![Go](https://skillicons.dev/icons?i=go) 
