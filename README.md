@@ -20,12 +20,16 @@ Specialized in 3D graphics, procedural generation, and real-time rendering. Curr
 
 ### Development & Tools
 ![Go](https://skillicons.dev/icons?i=go) 
-#
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-#
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Windows](https://skillicons.dev/icons?i=windows)
+![Apple](https://skillicons.dev/icons?i=apple)
 
 ---
 ## 📫 Contact
