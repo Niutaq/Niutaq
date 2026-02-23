@@ -8,33 +8,25 @@ Specialized in 3D graphics, procedural generation, and real-time rendering. Curr
 ## Core Skills
 
 ### 3D Graphics & Visualization
-![Unity](https://skillicons.dev/icons?i=unity) 
-![Unreal Engine](https://skillicons.dev/icons?i=unreal) 
-![Blender](https://skillicons.dev/icons?i=blender)  
-![Houdini](https://custom-icon-badges.demolab.com/badge/-Houdini-fe4703?logo=houdini&logoColor=white) 
-![Substance Painter](https://custom-icon-badges.demolab.com/badge/-Substance%20Painter-253709?logo=substancepainter&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity,blender,figma&theme=dark)](https://skillicons.dev)
+<br>
+<img src="https://img.shields.io/badge/-Houdini-FF4D00?style=for-the-badge&logo=sidefx&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/-Gaea-EBAB34?style=for-the-badge&logo=mountain&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/-Substance-000000?style=for-the-badge&logo=adobesubstancepainter&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/-TwinMotion-000000?style=for-the-badge&logoColor=white" height="40"/>
 
-![TwinMotion](https://img.shields.io/badge/TwinMotion-000000?style=twinmotion&logoColor=white) 
-![Gaea](https://img.shields.io/badge/Gaea-ebab34?style=gaea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF6C37?style=flat&logo=figma&logoColor=white)
+### Development
+[![My Skills](https://skillicons.dev/icons?i=go,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
-### Development & Tools
-![Go](https://skillicons.dev/icons?i=go) 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+### Infrastructure & Tools
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq&theme=dark)](https://skillicons.dev)
+<br>
+<img src="https://img.shields.io/badge/-n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="40"/>
 
-![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Apple](https://skillicons.dev/icons?i=apple)
+### Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,apple&theme=dark)](https://skillicons.dev)
 
 ---
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-karczmarz-b5b444237/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maciekkar1305@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:maciekkar1305@gmail.com)
 
 ---
 
