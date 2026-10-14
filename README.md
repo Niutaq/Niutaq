@@ -1,7 +1,6 @@
 # Hi, I'm Maciej Karczmarz
-**3D Artist & Graphics Developer | Learning Backend Development**
 
-Specialized in 3D graphics, procedural generation, and real-time rendering. Currently expanding into backend systems and Go development.
+Specialized in 3D graphics, procedural generation, and real-time rendering. Also expanding into backend systems, infrastructure and Go development.
 
 ---
 
