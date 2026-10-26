@@ -1,6 +1,6 @@
 # Hi, I'm Maciej Karczmarz
 
-Specialized in 3D graphics, procedural generation, and real-time rendering. Also expanding into backend systems, infrastructure and Go development.
+Specialized in 3D graphics, procedural generation, and real-time rendering. Also expanding into backend systems, infrastructure and Go development. (Mostly CNCF path)
 
 ---
 
